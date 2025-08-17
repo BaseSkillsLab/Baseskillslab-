@@ -1,2 +1,2 @@
 # Baseskillslab-
-Official repository for BaseSkillsLab – Building skills and opportunities on Base.
+BaseSkillsLab – A learning hub for skills onchain & beyond
